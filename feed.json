@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "MyPhotos",
+    "description": "",
+    "home_page_url": "https://gezengfeng.github.io/my-photos",
+    "feed_url": "https://gezengfeng.github.io/my-photos/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Gezengfeng"
+    },
+    "items": [
+    ]
+}
