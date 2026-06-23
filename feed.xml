@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>Gezengfeng</title>
+    <title>Sense deeply. Capture gently.</title>
     <link href="https://gezengfeng.github.io/my-photos/feed.xml" rel="self" />
     <link href="https://gezengfeng.github.io/my-photos" />
-    <updated>2026-06-23T18:48:26+08:00</updated>
+    <updated>2026-06-23T19:36:39+08:00</updated>
     <author>
         <name>Gezengfeng</name>
     </author>
@@ -105,7 +105,7 @@
         </author>
         <link href="https://gezengfeng.github.io/my-photos/xian-nu-dian.html"/>
         <id>https://gezengfeng.github.io/my-photos/xian-nu-dian.html</id>
-        <media:content url="https://gezengfeng.github.io/my-photos/media/posts/5/01052891.jpg" medium="image" />
+        <media:content url="https://gezengfeng.github.io/my-photos/media/posts/5/01052878-2.jpg" medium="image" />
             <category term="风景"/>
             <category term="家人"/>
 
@@ -113,7 +113,7 @@
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://gezengfeng.github.io/my-photos/media/posts/5/01052891.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://gezengfeng.github.io/my-photos/media/posts/5/01052878-2.jpg" class="type:primaryImage" alt="" /></p>
                 <div class="gallery-wrapper gallery-wrapper--full"><div class="gallery" data-is-empty="false" data-translation="添加图片" data-columns="3">
 <figure class="gallery__item"><a href="https://gezengfeng.github.io/my-photos/media/posts/5/gallery/01052939.jpg" data-size="5077x3808"><img loading="lazy" src="https://gezengfeng.github.io/my-photos/media/posts/5/gallery/01052939-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
 <figure class="gallery__item"><a href="https://gezengfeng.github.io/my-photos/media/posts/5/gallery/01052781.jpg" data-size="5002x3751"><img loading="lazy" src="https://gezengfeng.github.io/my-photos/media/posts/5/gallery/01052781-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
