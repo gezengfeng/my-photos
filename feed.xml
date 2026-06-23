@@ -3,14 +3,14 @@
     <title>Gezengfeng</title>
     <link href="https://gezengfeng.github.io/my-photos/feed.xml" rel="self" />
     <link href="https://gezengfeng.github.io/my-photos" />
-    <updated>2026-06-22T20:45:32+08:00</updated>
+    <updated>2026-06-23T18:48:26+08:00</updated>
     <author>
         <name>Gezengfeng</name>
     </author>
     <id>https://gezengfeng.github.io/my-photos</id>
 
     <entry>
-        <title>点芳西湖 · 雨中客</title>
+        <title>点芳西湖·雨中客</title>
         <author>
             <name>Gezengfeng</name>
         </author>
@@ -56,6 +56,10 @@
 <figure class="gallery__item"><a href="https://gezengfeng.github.io/my-photos/media/posts/3/gallery/IMG_20260620_235720-2.jpg" data-size="3764x5020"><img loading="lazy" src="https://gezengfeng.github.io/my-photos/media/posts/3/gallery/IMG_20260620_235720-2-thumbnail.jpg" alt="" width="768" height="1024"></a></figure>
 <figure class="gallery__item"><a href="https://gezengfeng.github.io/my-photos/media/posts/3/gallery/IMG_20260620_235911-2.jpg" data-size="4096x3072"><img loading="lazy" src="https://gezengfeng.github.io/my-photos/media/posts/3/gallery/IMG_20260620_235911-2-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
 <figure class="gallery__item"><a href="https://gezengfeng.github.io/my-photos/media/posts/3/gallery/IMG_20260620_234732.jpg" data-size="1920x1440"><img loading="lazy" src="https://gezengfeng.github.io/my-photos/media/posts/3/gallery/IMG_20260620_234732-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://gezengfeng.github.io/my-photos/media/posts/3/gallery/IMG_20260623_112623.jpg" data-size="2848x4272"><img loading="lazy" src="https://gezengfeng.github.io/my-photos/media/posts/3/gallery/IMG_20260623_112623-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
+<figure class="gallery__item"><a href="https://gezengfeng.github.io/my-photos/media/posts/3/gallery/IMG_20260623_112700.jpg" data-size="2328x3492"><img loading="lazy" src="https://gezengfeng.github.io/my-photos/media/posts/3/gallery/IMG_20260623_112700-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
+<figure class="gallery__item"><a href="https://gezengfeng.github.io/my-photos/media/posts/3/gallery/IMG_20260623_112744.jpg" data-size="2664x3996"><img loading="lazy" src="https://gezengfeng.github.io/my-photos/media/posts/3/gallery/IMG_20260623_112744-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
+<figure class="gallery__item"><a href="https://gezengfeng.github.io/my-photos/media/posts/3/gallery/IMG_20260623_113449.jpg" data-size="2664x3996"><img loading="lazy" src="https://gezengfeng.github.io/my-photos/media/posts/3/gallery/IMG_20260623_113449-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
 </div></div>
             ]]>
         </content>
@@ -101,7 +105,7 @@
         </author>
         <link href="https://gezengfeng.github.io/my-photos/xian-nu-dian.html"/>
         <id>https://gezengfeng.github.io/my-photos/xian-nu-dian.html</id>
-        <media:content url="https://gezengfeng.github.io/my-photos/media/posts/5/01052878.jpg" medium="image" />
+        <media:content url="https://gezengfeng.github.io/my-photos/media/posts/5/01052891.jpg" medium="image" />
             <category term="风景"/>
             <category term="家人"/>
 
@@ -109,7 +113,7 @@
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://gezengfeng.github.io/my-photos/media/posts/5/01052878.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://gezengfeng.github.io/my-photos/media/posts/5/01052891.jpg" class="type:primaryImage" alt="" /></p>
                 <div class="gallery-wrapper gallery-wrapper--full"><div class="gallery" data-is-empty="false" data-translation="添加图片" data-columns="3">
 <figure class="gallery__item"><a href="https://gezengfeng.github.io/my-photos/media/posts/5/gallery/01052939.jpg" data-size="5077x3808"><img loading="lazy" src="https://gezengfeng.github.io/my-photos/media/posts/5/gallery/01052939-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
 <figure class="gallery__item"><a href="https://gezengfeng.github.io/my-photos/media/posts/5/gallery/01052781.jpg" data-size="5002x3751"><img loading="lazy" src="https://gezengfeng.github.io/my-photos/media/posts/5/gallery/01052781-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
@@ -155,7 +159,7 @@
         </content>
     </entry>
     <entry>
-        <title>北山徒步</title>
+        <title>北山漫步</title>
         <author>
             <name>Gezengfeng</name>
         </author>
